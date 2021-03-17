@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "98DA0C31-CB0F-422D-841C-35C58A95BE5D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AFBD5C9-9A6A-4DBF-BF28-465FFED98A8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clima/Model/WeatherModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "conditionName"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9AFBD5C9-9A6A-4DBF-BF28-465FFED98A8C - fe43a7ed5b45062c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clima.WeatherModel.conditionName.getter : Swift.String"
+                  moduleName = "Clima"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandro.serna/Documents/Curso%20Swift/Udemy%20Course%20documentation/Clima-iOS13/Clima/Model/WeatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "9AFBD5C9-9A6A-4DBF-BF28-465FFED98A8C - fe43a7ed5b45062c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clima.WeatherModel.conditionName.getter : Swift.String"
+                  moduleName = "Clima"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandro.serna/Documents/Curso%20Swift/Udemy%20Course%20documentation/Clima-iOS13/Clima/Model/WeatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "9AFBD5C9-9A6A-4DBF-BF28-465FFED98A8C - fe43a7ed5b45062c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clima.WeatherModel.conditionName.getter : Swift.String"
+                  moduleName = "Clima"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandro.serna/Documents/Curso%20Swift/Udemy%20Course%20documentation/Clima-iOS13/Clima/Model/WeatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "555">
+               </Location>
+               <Location
+                  uuid = "9AFBD5C9-9A6A-4DBF-BF28-465FFED98A8C - fe43a7ed5b45062c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clima.WeatherModel.conditionName.getter : Swift.String"
+                  moduleName = "Clima"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandro.serna/Documents/Curso%20Swift/Udemy%20Course%20documentation/Clima-iOS13/Clima/Model/WeatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "771">
+               </Location>
+               <Location
+                  uuid = "9AFBD5C9-9A6A-4DBF-BF28-465FFED98A8C - fe43a7ed5b45062c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clima.WeatherModel.conditionName.getter : Swift.String"
+                  moduleName = "Clima"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandro.serna/Documents/Curso%20Swift/Udemy%20Course%20documentation/Clima-iOS13/Clima/Model/WeatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "987">
+               </Location>
+               <Location
+                  uuid = "9AFBD5C9-9A6A-4DBF-BF28-465FFED98A8C - fe43a7ed5b45062c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clima.WeatherModel.conditionName.getter : Swift.String"
+                  moduleName = "Clima"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandro.serna/Documents/Curso%20Swift/Udemy%20Course%20documentation/Clima-iOS13/Clima/Model/WeatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1203">
+               </Location>
+               <Location
+                  uuid = "9AFBD5C9-9A6A-4DBF-BF28-465FFED98A8C - fe43a7ed5b45062c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clima.WeatherModel.conditionName.getter : Swift.String"
+                  moduleName = "Clima"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandro.serna/Documents/Curso%20Swift/Udemy%20Course%20documentation/Clima-iOS13/Clima/Model/WeatherModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1261">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF7B188A-7DF6-49C9-BDBC-4E973E7D072C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Clima/Model/WeatherManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchWeather(latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
